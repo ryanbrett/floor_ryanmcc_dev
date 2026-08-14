@@ -1,0 +1,6 @@
+{
+  "name": "Floor Plan & Furniture Fit Manager",
+  "description": "Floor plan and furniture fit management tool calculating square footage, wall clearance, and room occupancy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
